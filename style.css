@@ -19,7 +19,8 @@ div{
     height: 30px;
     padding: 30px;
     margin: 10px;
-}.circle{
+}
+.circle{
     border: 5px solid lightblue;
     border-radius: 50%;
     width: 30px;
